@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <h1>DMIT2018</h1>
+            <p>DMMIT 2018 is the greatest class ever!</p>
     
     </div>
     </form>
