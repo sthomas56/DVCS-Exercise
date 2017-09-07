@@ -11,6 +11,7 @@
     <div>
         <h1>DMIT2018</h1>
             <p>DMMIT 2018 is the greatest class ever!</p>
+        <a href="http://www.nait.ca/course_DMIT2018.htm">Learn more</a>
     
     </div>
     </form>
